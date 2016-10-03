@@ -3,8 +3,8 @@ S3Auth-Revision: 123
 S3Auth-Date: 22-Aug-2012
 S3Auth-FbId: 123456789
 S3Auth-FbSecret: foo
-S3Auth-GoogleId: foo
-S3Auth-GoogleSecret: foo
+S3Auth-GoogleId: 528176497817-kulhlsmh1hg7acumcp83gsjbhdnnn6f7.apps.googleusercontent.com
+S3Auth-GoogleSecret: ecu8PriSF-w3DMjgwQ7QpXc0
 S3Auth-GithubId: 1234567
 S3Auth-GithubSecret: 1234567
 S3Auth-SecurityKey: key
